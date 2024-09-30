@@ -1,1 +1,4 @@
-Buat framework laravel agar langusng bisa dipakai
+-PHP
+*laravel
+-JavaScript
+*react
