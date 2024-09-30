@@ -1,4 +1,0 @@
--PHP
-*laravel
--JavaScript
-*react
