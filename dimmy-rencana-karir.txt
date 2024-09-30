@@ -1,7 +1,6 @@
-RENCANA KARIR DIMAS
+*Javascript
+-Angular
+-React
 
-  - Masuk ke sekolah tinggi intelejen negara
-* Bekerja dan belajar lebih keras
-* Tidak main main
-  - Menjadi orang yang bertanggung jawab atas dirinya sendiri
-  - Memiliki Harley Davidson Road Glide CVO
+*PHP Framework
+-Laravel
